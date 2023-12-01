@@ -36,7 +36,7 @@ public class WebDriverFactory {
                 driver = new FirefoxDriver();
                 break;
         }
-        driver.manage().window().setPosition(new Point(2000, 0));
+        //driver.manage().window().setPosition(new Point(2000, 0));
         driver.manage().window().maximize();
 
         return driver;
