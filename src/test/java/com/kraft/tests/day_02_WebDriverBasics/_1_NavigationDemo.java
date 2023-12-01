@@ -1,4 +1,4 @@
-package com.kraft.tests.day_02;
+package com.kraft.tests.day_02_WebDriverBasics;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.Dimension;
